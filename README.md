@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
