@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/guneshsingh/leetcode1/tree/master/0001-two-sum) |
 | [1672-richest-customer-wealth](https://github.com/guneshsingh/leetcode1/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
 ## Prefix Sum
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/guneshsingh/leetcode1/tree/master/1672-richest-customer-wealth) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/guneshsingh/leetcode1/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
