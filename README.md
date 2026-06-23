@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -45,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guneshsingh/leetcode1/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
