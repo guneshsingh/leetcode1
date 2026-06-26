@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/guneshsingh/leetcode1/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/guneshsingh/leetcode1/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
