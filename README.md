@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/guneshsingh/leetcode1/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/guneshsingh/leetcode1/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/guneshsingh/leetcode1/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/guneshsingh/leetcode1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/guneshsingh/leetcode1/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/guneshsingh/leetcode1/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/guneshsingh/leetcode1/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
