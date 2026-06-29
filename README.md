@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/guneshsingh/leetcode1/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/guneshsingh/leetcode1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/guneshsingh/leetcode1/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
