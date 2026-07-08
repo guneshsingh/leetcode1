@@ -7,15 +7,15 @@ public:
         while(r<n){
             if(nums[r]==0)
             zero++;
-            while(zero>k){
+            if(zero>k){
                 if(nums[l]==0){
-                    zero--;}
-                    l++;}
-                
-                
+                    zero--;
+                }
+                l++;}
+                else{
                     len=r-l+1;
                     maxlen=max(len,maxlen);
-                
+                }
             
             r++;
             
