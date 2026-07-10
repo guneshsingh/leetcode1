@@ -15,6 +15,7 @@ public:
             for(int j=0;j<i;j++){
                 temp.push_back(nums[j]);
             }
+            break;
             
         }}
         for(int i=1;i<temp.size();i++){
