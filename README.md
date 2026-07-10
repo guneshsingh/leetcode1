@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/guneshsingh/leetcode1/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/guneshsingh/leetcode1/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0876-middle-of-the-linked-list) |
 ## Array
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/guneshsingh/leetcode1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/guneshsingh/leetcode1/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/guneshsingh/leetcode1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/guneshsingh/leetcode1/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
