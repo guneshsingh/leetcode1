@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/guneshsingh/leetcode1/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/guneshsingh/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
+| [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 ## Bit Manipulation
 |  |
