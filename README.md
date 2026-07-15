@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/guneshsingh/leetcode1/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/guneshsingh/leetcode1/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/guneshsingh/leetcode1/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guneshsingh/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/guneshsingh/leetcode1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
