@@ -15,13 +15,14 @@ public:
             if(st.find(it-1)==st.end()){
                 int count=1;
                 int x=it;
-                while(st.find(x+1)!=st.end()){
-                    x+=1;
-                    count=count+1;
-                }
-                l=max(l,count);
+            
+            while(st.find(x+1)!=st.end()){
+                x+=1;
+                count+=1;
             }
-        }
+            l=max(l,count);
+            }}
+        
 return l;
     }
 };
