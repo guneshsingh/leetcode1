@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/guneshsingh/leetcode1/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/guneshsingh/leetcode1/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/guneshsingh/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/guneshsingh/leetcode1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/guneshsingh/leetcode1/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guneshsingh/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/guneshsingh/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/guneshsingh/leetcode1/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/guneshsingh/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
