@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/guneshsingh/leetcode1/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/guneshsingh/leetcode1/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/guneshsingh/leetcode1/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/guneshsingh/leetcode1/tree/master/0120-triangle) |
@@ -93,12 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/guneshsingh/leetcode1/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/guneshsingh/leetcode1/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guneshsingh/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/guneshsingh/leetcode1/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/guneshsingh/leetcode1/tree/master/0242-valid-anagram) |
