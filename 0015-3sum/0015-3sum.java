@@ -16,13 +16,13 @@ class Solution {
                     k--;
                 }
                 else{
-List<Integer> ls=new ArrayList<>();
-ls.addAll(List.of(nums[i], nums[j], nums[k]));
-st.add(ls);
-j++;
-k--;
-while(j<k && nums[j]==nums[j-1]) j++;
-while(j<k && nums[k]==nums[k+1]) k--;
+                    List<Integer> ls=new ArrayList<>();
+                    ls.addAll(List.of(nums[i], nums[j], nums[k]));
+                    st.add(ls);
+                    j++;
+                    k--;
+                    while(j<k && nums[j]==nums[j-1]) j++;
+                    while(j<k && nums[k]==nums[k+1]) k--;
                 }
             }
         }    
