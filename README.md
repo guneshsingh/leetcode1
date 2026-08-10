@@ -272,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/guneshsingh/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
