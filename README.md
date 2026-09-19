@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/guneshsingh/leetcode1/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/guneshsingh/leetcode1/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/guneshsingh/leetcode1/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0876-middle-of-the-linked-list) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/guneshsingh/leetcode1/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/guneshsingh/leetcode1/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/guneshsingh/leetcode1/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/guneshsingh/leetcode1/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
