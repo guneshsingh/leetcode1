@@ -13,24 +13,25 @@ class Solution {
         if(head==null || head.next==null) return head;
         ListNode temp=head;
         ListNode temp1=head;
-        int n=0;
-        while(temp!=null){
+        int n=1;
+        while(temp.next!=null){
             n++;
             temp=temp.next;
         }
-        k=k%n;
         
-        while(k>0){
-            temp=head;
-            while(temp.next.next!=null ){
-                temp=temp.next;
-            }
-            ListNode last=temp.next;
-            temp.next=null;
-            last.next=temp1;
-            temp1=last;
-            k--;
-        }
-        return temp1;
+        k=k%n;
+       temp.next=temp1;
+       int d=n-k;
+       
+       while(d>1){
+        d--;
+        temp1=temp1.next;
+        
+       }
+       System.out.print(temp1.val);
+       head=temp1.next;
+       temp1.next=null;
+       return head;
     }
+    
 }
