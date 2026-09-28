@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guneshsingh/leetcode1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/guneshsingh/leetcode1/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/guneshsingh/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/guneshsingh/leetcode1/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/guneshsingh/leetcode1/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/guneshsingh/leetcode1/tree/master/0141-linked-list-cycle) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/guneshsingh/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/guneshsingh/leetcode1/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/guneshsingh/leetcode1/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guneshsingh/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guneshsingh/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/guneshsingh/leetcode1/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guneshsingh/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/guneshsingh/leetcode1/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -361,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/guneshsingh/leetcode1/tree/master/0141-linked-list-cycle) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/guneshsingh/leetcode1/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
