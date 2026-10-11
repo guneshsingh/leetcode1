@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/guneshsingh/leetcode1/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/guneshsingh/leetcode1/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guneshsingh/leetcode1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guneshsingh/leetcode1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/guneshsingh/leetcode1/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/guneshsingh/leetcode1/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/guneshsingh/leetcode1/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
+| [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/guneshsingh/leetcode1/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
