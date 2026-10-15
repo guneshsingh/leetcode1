@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/guneshsingh/leetcode1/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/guneshsingh/leetcode1/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/guneshsingh/leetcode1/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/guneshsingh/leetcode1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/1901-find-a-peak-element-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
+| [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/guneshsingh/leetcode1/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
