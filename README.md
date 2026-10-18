@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guneshsingh/leetcode1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1109-corporate-flight-bookings](https://github.com/guneshsingh/leetcode1/tree/master/1109-corporate-flight-bookings) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guneshsingh/leetcode1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1314-matrix-block-sum](https://github.com/guneshsingh/leetcode1/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/guneshsingh/leetcode1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/guneshsingh/leetcode1/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/guneshsingh/leetcode1/tree/master/1109-corporate-flight-bookings) |
+| [1314-matrix-block-sum](https://github.com/guneshsingh/leetcode1/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/guneshsingh/leetcode1/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guneshsingh/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/guneshsingh/leetcode1/tree/master/0304-range-sum-query-2d-immutable) |
+| [1314-matrix-block-sum](https://github.com/guneshsingh/leetcode1/tree/master/1314-matrix-block-sum) |
 | [1672-richest-customer-wealth](https://github.com/guneshsingh/leetcode1/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/guneshsingh/leetcode1/tree/master/2643-row-with-maximum-ones) |
