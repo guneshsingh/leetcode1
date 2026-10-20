@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/guneshsingh/leetcode1/tree/master/1109-corporate-flight-bookings) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/guneshsingh/leetcode1/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1314-matrix-block-sum](https://github.com/guneshsingh/leetcode1/tree/master/1314-matrix-block-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/guneshsingh/leetcode1/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/guneshsingh/leetcode1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/guneshsingh/leetcode1/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/guneshsingh/leetcode1/tree/master/1314-matrix-block-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/guneshsingh/leetcode1/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
