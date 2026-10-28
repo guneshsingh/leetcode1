@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/guneshsingh/leetcode1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guneshsingh/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/guneshsingh/leetcode1/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/guneshsingh/leetcode1/tree/master/0796-rotate-string) |
 | [0929-unique-email-addresses](https://github.com/guneshsingh/leetcode1/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/guneshsingh/leetcode1/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/guneshsingh/leetcode1/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/guneshsingh/leetcode1/tree/master/0929-unique-email-addresses) |
 | [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guneshsingh/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/guneshsingh/leetcode1/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
