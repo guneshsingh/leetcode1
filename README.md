@@ -422,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/guneshsingh/leetcode1/tree/master/0078-subsets) |
+## Database
+|  |
+| ------- |
+| [1873-calculate-special-bonus](https://github.com/guneshsingh/leetcode1/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
