@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/guneshsingh/leetcode1/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/guneshsingh/leetcode1/tree/master/0929-unique-email-addresses) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/guneshsingh/leetcode1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guneshsingh/leetcode1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/guneshsingh/leetcode1/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/guneshsingh/leetcode1/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/guneshsingh/leetcode1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/guneshsingh/leetcode1/tree/master/1109-corporate-flight-bookings) |
 | [1314-matrix-block-sum](https://github.com/guneshsingh/leetcode1/tree/master/1314-matrix-block-sum) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/guneshsingh/leetcode1/tree/master/0929-unique-email-addresses) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/guneshsingh/leetcode1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/guneshsingh/leetcode1/tree/master/2965-find-missing-and-repeated-values) |
