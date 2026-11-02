@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/guneshsingh/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/guneshsingh/leetcode1/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/guneshsingh/leetcode1/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/guneshsingh/leetcode1/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/guneshsingh/leetcode1/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/guneshsingh/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/guneshsingh/leetcode1/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/guneshsingh/leetcode1/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/guneshsingh/leetcode1/tree/master/0020-valid-parentheses) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/guneshsingh/leetcode1/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/guneshsingh/leetcode1/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/guneshsingh/leetcode1/tree/master/0118-pascals-triangle) |
@@ -431,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/guneshsingh/leetcode1/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/guneshsingh/leetcode1/tree/master/0627-swap-sex-of-employees) |
 | [1873-calculate-special-bonus](https://github.com/guneshsingh/leetcode1/tree/master/1873-calculate-special-bonus) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/guneshsingh/leetcode1/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
