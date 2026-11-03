@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/guneshsingh/leetcode1/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guneshsingh/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/guneshsingh/leetcode1/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/guneshsingh/leetcode1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/guneshsingh/leetcode1/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/guneshsingh/leetcode1/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/guneshsingh/leetcode1/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guneshsingh/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/guneshsingh/leetcode1/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/guneshsingh/leetcode1/tree/master/0493-reverse-pairs) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/guneshsingh/leetcode1/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -441,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/guneshsingh/leetcode1/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
