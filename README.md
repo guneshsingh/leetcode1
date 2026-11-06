@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/guneshsingh/leetcode1/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/guneshsingh/leetcode1/tree/master/0075-sort-colors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -457,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/guneshsingh/leetcode1/tree/master/0496-next-greater-element-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/guneshsingh/leetcode1/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
