@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/guneshsingh/leetcode1/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/guneshsingh/leetcode1/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/guneshsingh/leetcode1/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/guneshsingh/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/guneshsingh/leetcode1/tree/master/0704-binary-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/guneshsingh/leetcode1/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/guneshsingh/leetcode1/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/guneshsingh/leetcode1/tree/master/0454-4sum-ii) |
+| [0496-next-greater-element-i](https://github.com/guneshsingh/leetcode1/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/guneshsingh/leetcode1/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/guneshsingh/leetcode1/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/guneshsingh/leetcode1/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/guneshsingh/leetcode1/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/guneshsingh/leetcode1/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -450,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/guneshsingh/leetcode1/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
