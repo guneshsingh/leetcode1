@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/guneshsingh/leetcode1/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/guneshsingh/leetcode1/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/guneshsingh/leetcode1/tree/master/1552-magnetic-force-between-two-balls) |
+| [1590-make-sum-divisible-by-p](https://github.com/guneshsingh/leetcode1/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/guneshsingh/leetcode1/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/guneshsingh/leetcode1/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/guneshsingh/leetcode1/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/guneshsingh/leetcode1/tree/master/1480-running-sum-of-1d-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/guneshsingh/leetcode1/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/guneshsingh/leetcode1/tree/master/1732-find-the-highest-altitude) |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/guneshsingh/leetcode1/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/guneshsingh/leetcode1/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1590-make-sum-divisible-by-p](https://github.com/guneshsingh/leetcode1/tree/master/1590-make-sum-divisible-by-p) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/guneshsingh/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/guneshsingh/leetcode1/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
