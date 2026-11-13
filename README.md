@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/guneshsingh/leetcode1/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guneshsingh/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/guneshsingh/leetcode1/tree/master/2643-row-with-maximum-ones) |
+| [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/guneshsingh/leetcode1/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/guneshsingh/leetcode1/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Prefix Sum
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/guneshsingh/leetcode1/tree/master/1590-make-sum-divisible-by-p) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/guneshsingh/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/guneshsingh/leetcode1/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [1552-magnetic-force-between-two-balls](https://github.com/guneshsingh/leetcode1/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
 ## Stack
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/guneshsingh/leetcode1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/guneshsingh/leetcode1/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
 ## Union-Find
 |  |
 | ------- |
