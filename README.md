@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
 | [2965-find-missing-and-repeated-values](https://github.com/guneshsingh/leetcode1/tree/master/2965-find-missing-and-repeated-values) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/guneshsingh/leetcode1/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/guneshsingh/leetcode1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/guneshsingh/leetcode1/tree/master/1744-can-you-eat-your-favorite-candy-on-your-favorite-day) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/guneshsingh/leetcode1/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/guneshsingh/leetcode1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/guneshsingh/leetcode1/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/guneshsingh/leetcode1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
