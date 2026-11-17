@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/guneshsingh/leetcode1/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/guneshsingh/leetcode1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/guneshsingh/leetcode1/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/guneshsingh/leetcode1/tree/master/0904-fruit-into-baskets) |
 | [0929-unique-email-addresses](https://github.com/guneshsingh/leetcode1/tree/master/0929-unique-email-addresses) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/guneshsingh/leetcode1/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/guneshsingh/leetcode1/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/guneshsingh/leetcode1/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/guneshsingh/leetcode1/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/guneshsingh/leetcode1/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/guneshsingh/leetcode1/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/guneshsingh/leetcode1/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2747-count-zero-request-servers](https://github.com/guneshsingh/leetcode1/tree/master/2747-count-zero-request-servers) |
