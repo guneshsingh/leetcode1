@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guneshsingh/leetcode1/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guneshsingh/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/guneshsingh/leetcode1/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/guneshsingh/leetcode1/tree/master/0303-range-sum-query-immutable) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/guneshsingh/leetcode1/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/guneshsingh/leetcode1/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guneshsingh/leetcode1/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/guneshsingh/leetcode1/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/guneshsingh/leetcode1/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/guneshsingh/leetcode1/tree/master/0424-longest-repeating-character-replacement) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/guneshsingh/leetcode1/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/guneshsingh/leetcode1/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/guneshsingh/leetcode1/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guneshsingh/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/guneshsingh/leetcode1/tree/master/0410-split-array-largest-sum) |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/guneshsingh/leetcode1/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/guneshsingh/leetcode1/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/guneshsingh/leetcode1/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/guneshsingh/leetcode1/tree/master/1552-magnetic-force-between-two-balls) |
