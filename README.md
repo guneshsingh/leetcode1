@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/guneshsingh/leetcode1/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/guneshsingh/leetcode1/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/guneshsingh/leetcode1/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/guneshsingh/leetcode1/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
