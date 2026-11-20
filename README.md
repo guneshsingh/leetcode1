@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/guneshsingh/leetcode1/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/guneshsingh/leetcode1/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/guneshsingh/leetcode1/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/guneshsingh/leetcode1/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/guneshsingh/leetcode1/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/guneshsingh/leetcode1/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
+| [0400-nth-digit](https://github.com/guneshsingh/leetcode1/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/guneshsingh/leetcode1/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/guneshsingh/leetcode1/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/guneshsingh/leetcode1/tree/master/0540-single-element-in-a-sorted-array) |
