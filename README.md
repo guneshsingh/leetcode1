@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/guneshsingh/leetcode1/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/guneshsingh/leetcode1/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/guneshsingh/leetcode1/tree/master/0627-swap-sex-of-employees) |
+| [1667-fix-names-in-a-table](https://github.com/guneshsingh/leetcode1/tree/master/1667-fix-names-in-a-table) |
 | [1873-calculate-special-bonus](https://github.com/guneshsingh/leetcode1/tree/master/1873-calculate-special-bonus) |
 ## Manacher
 |  |
