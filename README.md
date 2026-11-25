@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/guneshsingh/leetcode1/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/guneshsingh/leetcode1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/guneshsingh/leetcode1/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/guneshsingh/leetcode1/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/guneshsingh/leetcode1/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/guneshsingh/leetcode1/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/guneshsingh/leetcode1/tree/master/0400-nth-digit) |
@@ -510,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/guneshsingh/leetcode1/tree/master/0075-sort-colors) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/guneshsingh/leetcode1/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
